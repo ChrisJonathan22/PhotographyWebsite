@@ -1,0 +1,315 @@
+body {
+    background-color: #4d3319;
+  
+    
+}
+
+#container {
+    
+    background-color: #4d3319;
+    
+    
+   
+}
+
+img {
+    width: 50%;
+    height: 650px;
+    display: block;
+    margin:auto;
+    margin-right: auto;
+    position: relative; top: -7px;
+    
+    
+   
+}
+
+#menu {
+    
+    list-style-type: none;
+    margin-left: 40%;
+    padding: 0;
+    overflow: hidden; 
+    
+    
+    }
+
+#items {
+    
+    float: left;
+}
+
+
+a:link, a:visited {
+  
+ display: block;   
+ width: 120px;
+ font-weight: bold;
+ color: white;
+ background-color: #4d3319;
+ text-align: center;
+ padding: 4px;
+ text-decoration: none;
+text-transform: uppercase;
+    
+}
+
+a:hover, a:active {
+ color: gold;  
+    
+}
+
+
+
+#clickhere {
+    
+    background-color: #d2a679;
+}
+
+#main {
+    
+    background-color: #d2a679;
+    width: 50%;
+    height: 1300px;
+    display: block;
+    margin:auto;
+    margin-right: auto;
+    position: relative; top: -7px;
+    padding: 0em 1em 1em;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+#picturebox {
+   background-color: #4d3319;
+    width: 600px;
+    height: 220px;
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    float: right;
+    
+}
+
+#picturebox2 {
+   background-color: #4d3319;
+    width: 450px;
+    height: 460px;
+    position: absolute;
+    right: 470px;
+    top: 30px;
+    float: left; 
+    
+    
+}
+
+#picturebox3 {
+   background-color: #4d3319;
+    width: 450px;
+    height: 460px;
+    position: absolute;
+    right: 470px;
+    top: 720px;
+    float: left;  
+    
+    }
+
+/*.mySlides {
+    width: 85%;
+    height: 85%;
+    position: absolute;
+    right: 33px;
+    top: 33px;
+    
+}*/
+
+#slideshow {
+   width: 85%;
+    height: 85%;
+    position: absolute;
+    right: 33px;
+    top: 33px; 
+    
+}
+
+
+#bird {
+   width: 88%;
+    height: 230px;
+    display: block;
+    margin:auto;
+    margin-right: auto;
+    position: relative; top: 17px;
+    
+    border: 10px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 10px;  
+    
+}
+
+#southtext {
+  position: relative;
+    left: 17px;
+    color: palevioletred;
+    text-transform: uppercase;
+    
+}
+
+#birdtext {
+   color: white; 
+    position: relative;
+    left: 17px;
+    font-size: 20px;
+}
+
+#title {
+
+    margin-right: 10px;
+    margin-left: 465px;
+    margin-top: -460px;
+    width: 100%;
+    color: white;
+}
+
+#right {
+    
+    margin-right: 10px;
+    margin-left: 465px;
+    margin-top: 35px;
+    width: 100%;
+}
+
+#picturelinks {
+    width: 33%;
+    height: 160px;
+    
+    
+    position: relative;
+    left: px;
+    top: 30px;
+    float: left;
+}
+
+#picturelinks1 {
+    width: 33%;
+    height: 160px;
+    
+    position: relative;
+    left: 2px;
+    top: 30px;
+    float: left;
+    
+}
+
+#picturelinks2 {
+    width: 33%;
+    height: 160px;
+    
+    position: relative;
+    left: 2px;
+    top: 30px;
+    float: none;
+    
+}
+
+#about {
+    position: relative;
+    right: 252px;
+    top: -10px;
+    height: 800px;
+    
+}
+
+#ben {
+position: relative;   
+left: 538px; 
+bottom: 650px;
+color: white;
+font-size: 28px
+}
+
+.aboutMe {
+position: relative;
+left: 520px;
+top: -700px;
+width: 40%; 
+font-size: 20px;
+
+    
+}
+
+#contact {
+background-color: #4d3319;
+position: relative;
+bottom: 525px;
+
+width: 100%;
+height: 400px;
+
+    
+}
+
+#contactMe {
+position: relative;
+top: 40px;
+left: 400px;
+
+    
+}
+
+#hyperlink {
+    position: relative;
+    top: 85px;
+    left: 300px;
+    
+}
+
+#table {
+    position: relative;
+    top: 55px;
+    left: 320px;
+    
+}
+
+
+h2 {
+    
+    margin-right: 615px;
+}
+
+p {
+    color: black;
+    margin-top: 37px;
+    
+
+}
+
+#footer {
+    
+    text-align: center;
+    
+}
+
+#footer1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+
+#highlight {
+    color: white;
+    text-transform: uppercase;
+
+}
+
+#copyright {
+    color: #ffccff;
+    font-family:serif;
+}
+
+#rights {
+    
+  color: white;  
+}
